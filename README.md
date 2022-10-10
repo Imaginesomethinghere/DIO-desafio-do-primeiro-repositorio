@@ -1,1 +1,1 @@
-# DIO-desafio-do-primeiro-reposit-rio
+# DIO-desafio-do-primeiro-repositório
